@@ -1,15 +1,1 @@
-name: Andrew Petz
-markdown: kramdown
-future: true
-encoding: UTF-8
-permalink: /blog/:year/:month/:day/:title
-gems:
-  - jekyll-sitemap
-
-highlighter: rouge
-theme: jekyll-theme-dinky
-
-collections:
-  recommendations:
-    output: true
-    permalink: /recommendations/:path/
+theme: jekyll-theme-leap-day
